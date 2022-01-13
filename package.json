@@ -1,0 +1,18 @@
+{
+  "name": "alfred-bookmarks",
+  "version": "0.0.1",
+  "description": "Alfred Bookmarks",
+  "type": "module",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "dependencies": {
+    "alfy": "^0.12.2",
+    "ramda": "^0.27.2",
+    "untildify": "^4.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
