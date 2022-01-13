@@ -1,8 +1,13 @@
 {
   "name": "alfred-bookmarks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Alfred Bookmarks",
   "type": "module",
+  "author": {
+    "name": "Josh York",
+    "email": "joshua.s.york@gmail.com",
+    "url": "https://github.com/JoshYork"
+  },
   "scripts": {
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup"
