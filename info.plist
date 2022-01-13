@@ -115,8 +115,6 @@
 	</dict>
 	<key>createdby</key>
 	<string>Josh York</string>
-	<key>description</key>
-	<string>Bookmarks outside the browser</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -439,13 +437,9 @@
 	<key>variables</key>
 	<dict>
 		<key>DIR_PATH</key>
-		<string>~/.dotfiles/config/alfred-bookmarks</string>
+		<string></string>
 		<key>FILENAME</key>
-		<string>bookmarks.txt</string>
+		<string></string>
 	</dict>
-	<key>version</key>
-	<string></string>
-	<key>webaddress</key>
-	<string>https://github.com/JoshYork/alfred-bookmarks</string>
 </dict>
 </plist>
